@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinCollectionGame.Plugins", "CoinCollectionGame.Plugins.csproj", "{9BE66566-3BF8-8FAF-56FC-EDBE140F315D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinCollectionGame", "CoinCollectionGame.csproj", "{6FFB3C97-0791-4538-65DA-43101A5FAEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinCollectionGame.Editor.Plugins", "CoinCollectionGame.Editor.Plugins.csproj", "{F31ADF47-5931-1182-082B-6E8234413216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE66566-3BF8-8FAF-56FC-EDBE140F315D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE66566-3BF8-8FAF-56FC-EDBE140F315D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE66566-3BF8-8FAF-56FC-EDBE140F315D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE66566-3BF8-8FAF-56FC-EDBE140F315D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFB3C97-0791-4538-65DA-43101A5FAEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFB3C97-0791-4538-65DA-43101A5FAEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFB3C97-0791-4538-65DA-43101A5FAEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFB3C97-0791-4538-65DA-43101A5FAEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31ADF47-5931-1182-082B-6E8234413216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31ADF47-5931-1182-082B-6E8234413216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31ADF47-5931-1182-082B-6E8234413216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31ADF47-5931-1182-082B-6E8234413216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
